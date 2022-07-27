@@ -21,6 +21,7 @@
 		352912B12884021000C5CFE5 /* MockParentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 352912B02884021000C5CFE5 /* MockParentViewModel.swift */; };
 		3538C22528813E4000BECB1F /* ParentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3538C22228813E4000BECB1F /* ParentViewModel.swift */; };
 		3538C22628813E4000BECB1F /* ParentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3538C22428813E4000BECB1F /* ParentViewController.swift */; };
+		353AC8F1289182FB003EADAF /* HAhahaha.swift in Sources */ = {isa = PBXBuildFile; fileRef = 353AC8F0289182FB003EADAF /* HAhahaha.swift */; };
 		35E57CD2287AC274002D360E /* RxFramework.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 35E57CD1287AC274002D360E /* RxFramework.framework */; };
 		35EBB5DE2883FBAF00F4D145 /* Bindable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35EBB5DD2883FBAF00F4D145 /* Bindable.swift */; };
 		9275AA98FB61D0A1BBA571B7 /* Pods_MovieKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 622DAF44BCE672B51F4A9050 /* Pods_MovieKit.framework */; };
@@ -54,6 +55,7 @@
 		352912B02884021000C5CFE5 /* MockParentViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MockParentViewModel.swift; sourceTree = "<group>"; };
 		3538C22228813E4000BECB1F /* ParentViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ParentViewModel.swift; sourceTree = "<group>"; };
 		3538C22428813E4000BECB1F /* ParentViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ParentViewController.swift; sourceTree = "<group>"; };
+		353AC8F0289182FB003EADAF /* HAhahaha.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HAhahaha.swift; sourceTree = "<group>"; };
 		35E57CD1287AC274002D360E /* RxFramework.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = RxFramework.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		35EBB5DD2883FBAF00F4D145 /* Bindable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bindable.swift; sourceTree = "<group>"; };
 		622DAF44BCE672B51F4A9050 /* Pods_MovieKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MovieKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -146,6 +148,7 @@
 				351F9AA12878027400F030F1 /* TableView */,
 				351F9AA32878027400F030F1 /* CollectionView */,
 				351F9AA62878027400F030F1 /* Alert */,
+				353AC8F0289182FB003EADAF /* HAhahaha.swift */,
 			);
 			path = Module;
 			sourceTree = "<group>";
@@ -430,6 +433,7 @@
 				3538C22528813E4000BECB1F /* ParentViewModel.swift in Sources */,
 				351F9AA92878027400F030F1 /* TableSectionViewModel.swift in Sources */,
 				35EBB5DE2883FBAF00F4D145 /* Bindable.swift in Sources */,
+				353AC8F1289182FB003EADAF /* HAhahaha.swift in Sources */,
 				351F9AAA2878027400F030F1 /* CategoryItemCell.swift in Sources */,
 				351F9AB72878054200F030F1 /* Ext+StackView.swift in Sources */,
 				3538C22628813E4000BECB1F /* ParentViewController.swift in Sources */,
